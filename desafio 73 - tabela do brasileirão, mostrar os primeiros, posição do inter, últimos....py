@@ -1,0 +1,12 @@
+print('=-'*40)
+ordemtabela = ('Botafogo', 'Palmeiras', 'Bragantino', 'Grêmio', 'Atlético-MG', 'Flamengo', 'Athletico-PR', 'Fluminense', 'Fortaleza'
+               'São Paulo', 'Internacional', 'Cuiabá', 'Corinthians', 'Santos', 'Bahia', 'Vasco', 'Cruzeiro', 'Goiás', 'Coritiba', 'América-MG')
+print(f'Lista de times do Brasileirão: {ordemtabela}')
+print('=-'*40)
+print(f'Os 5 primeiros são {ordemtabela[0:5]}')
+print('=-'*40)
+print(f'Os 4 últimos são {ordemtabela[15:20]}')
+print('=-'*40)
+print(f'Times em ordem alfabética: {sorted(ordemtabela)}')
+print('=-'*40)
+print(f'O inter está na 11a primeira colocação')
