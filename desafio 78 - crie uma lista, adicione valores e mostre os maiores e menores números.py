@@ -10,7 +10,6 @@ for c in range (0, 5):
         if listanum[c] < men:
             men = listanum[c]
 
-
 print(f'Você digitou os valores {listanum}')
 print(f'O menor número digita foi: {men} nas posições ', end='')
 for i, v in enumerate(listanum):
