@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f79cf9c3-7103-4a58-b9e1-e3171ce2b900" name="Changes" comment="pycharm">
-      <change afterPath="$PROJECT_DIR$/desafio 79 - pedir numeros, se quer continuar, ignorar iguais.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafio 80 - crie uma lista, pedir 5 números e adicionar eles na pos correta.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pesquisa binária - livro.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/desafio 78 - crie uma lista, adicione valores e mostre os maiores e menores números.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafio 78 - crie uma lista, adicione valores e mostre os maiores e menores números.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,7 +95,15 @@
       <option name="project" value="LOCAL" />
       <updated>1700783104826</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="pycharm">
+      <option name="closed" value="true" />
+      <created>1701121170516</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1701121170516</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
