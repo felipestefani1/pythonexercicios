@@ -1,15 +1,14 @@
-listanum = []
+números = list()
 while True:
     n = int(input('Digite um valor: '))
-    if n not in listanum:
-        listanum.append(n)
+    if n not in números:
+        números.append(n)
         print('Valor adicionado com sucesso! ')
     else:
-        ('Valor duplicado! Não vou aceitar...')
-
-
-    continuar = str(input('Você quer continuar? [S/N]')).strip().upper()
-    if continuar == 'N':
+        print('Valor duplicado! Não vou aceitar...')
+    r = str(input('Você quer continuar? [S/N]')).strip().upper()
+    if r in 'Nn':
         break
 print('-='*40)
-print(listanum)
+números.sort()
+print(números)
