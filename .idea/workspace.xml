@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f79cf9c3-7103-4a58-b9e1-e3171ce2b900" name="Changes" comment="pycharm">
-      <change afterPath="$PROJECT_DIR$/aula 17.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafio 83 - verificando se a expressão é válida.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafio 84 - adicione pessoas a uma lista e depois analise elas.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -158,7 +157,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706542858006</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="pycharm">
+      <option name="closed" value="true" />
+      <created>1706623755058</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1706623755058</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
